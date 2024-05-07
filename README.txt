@@ -1,0 +1,1 @@
+Versione 1. L'app prende semplicemente un jpg, un mp4 o un txt e ne restituisce alcune informazioni
